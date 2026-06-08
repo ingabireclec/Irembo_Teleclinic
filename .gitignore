@@ -1,0 +1,27 @@
+<<'EOF'
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Data (do NOT commit large/raw CSVs)
+data/
+TeleClinic_Candidate_Dataset*
+*.csv
+
+# Logs, env files
+*.log
+.env
+EOF
