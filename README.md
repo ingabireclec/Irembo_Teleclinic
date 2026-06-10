@@ -72,7 +72,7 @@ The dataset is synthetic and was provided as part of the assessment. It is not i
 
 **Process Note**
 
-The analysis prioritised data quality and join integrity first, as these findings underpinned every subsequent part. Null values were retained rather than dropped where they carried clinical or structural meaning. All clinical metrics use 709 active patients as the denominator rather than 1,200 registered patients. The urban/rural variable was excluded from equity analysis and replaced with district-level disaggregation. Full process notes are included in the written responses document.
+The analysis prioritised data quality and join integrity first, as these findings underpinned every subsequent part. Null values were retained rather than dropped where they carried clinical or structural meaning. All clinical metrics use 709 active patients as the denominator rather than 1,200 registered patients. The urban/rural variable was excluded from equity analysis and replaced with district-level disaggregation. Full process notes are included in the written responses document. .pr.
 
 ---
 
